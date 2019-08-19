@@ -1,0 +1,58 @@
+Dependencies for Project 'Blinky', Target 'STM32F103 Flash': (DO NOT MODIFY !)
+F (.\Blinky.c)(0x57481C90)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE"-I "C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE\Device\STM32F103ZE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.1.0\Board-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F10X_HD-o .\flash\blinky.o --omf_browse .\flash\blinky.crf --depend .\flash\blinky.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\STM32F10x.h)(0x53BA6FD0)
+I (C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE\RTE_Components.h)(0x57481AA9)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm3.h)(0x5735F80E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E90AC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x56FEA54E)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.1.0\Board\Board_LED.h)(0x53BB84C2)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.1.0\Board\Board_ADC.h)(0x53BB84C2)
+F (.\Abstract.txt)(0x519F5D00)()
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Boards\Keil\MCBSTM32E\Common\ADC_MCBSTM32E.c)(0x5603D404)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE"-I "C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE\Device\STM32F103ZE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.1.0\Board-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F10X_HD-o .\flash\adc_mcbstm32e.o --omf_browse .\flash\adc_mcbstm32e.crf --depend .\flash\adc_mcbstm32e.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\STM32F10x.h)(0x53BA6FD0)
+I (C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE\RTE_Components.h)(0x57481AA9)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm3.h)(0x5735F80E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E90AC)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.1.0\Board\Board_ADC.h)(0x53BB84C2)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Boards\Keil\MCBSTM32E\Common\LED_MCBSTM32E.c)(0x55FBC280)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE"-I "C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE\Device\STM32F103ZE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.1.0\Board-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F10X_HD-o .\flash\led_mcbstm32e.o --omf_browse .\flash\led_mcbstm32e.crf --depend .\flash\led_mcbstm32e.d)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.1.0\Board\Board_LED.h)(0x53BB84C2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver\GPIO_STM32F10x.h)(0x56178B8E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x56FEA54C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA6FD0)
+I (C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE\RTE_Components.h)(0x57481AA9)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm3.h)(0x5735F80E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E90AC)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver\GPIO_STM32F10x.c)(0x56178B8E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE"-I "C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE\Device\STM32F103ZE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.1.0\Board-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F10X_HD-o .\flash\gpio_stm32f10x.o --omf_browse .\flash\gpio_stm32f10x.crf --depend .\flash\gpio_stm32f10x.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver\GPIO_STM32F10x.h)(0x56178B8E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x56FEA54C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA6FD0)
+I (C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE\RTE_Components.h)(0x57481AA9)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm3.h)(0x5735F80E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E90AC)
+F (RTE\Device\STM32F103ZE\RTE_Device.h)(0x52454A1C)()
+F (RTE\Device\STM32F103ZE\startup_stm32f10x_hd.s)(0x519E22D0)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I "C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE"-I "C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE\Device\STM32F103ZE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.1.0\Board-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver--pd "__UVISION_VERSION SETA 520" --pd "_RTE_ SETA 1" --pd "STM32F10X_HD SETA 1"--list .\flash\startup_stm32f10x_hd.lst --xref -o .\flash\startup_stm32f10x_hd.o --depend .\flash\startup_stm32f10x_hd.d)
+F (RTE\Device\STM32F103ZE\system_stm32f10x.c)(0x519F34B6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE"-I "C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE\Device\STM32F103ZE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.1.0\Board-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F10X_HD-o .\flash\system_stm32f10x.o --omf_browse .\flash\system_stm32f10x.crf --depend .\flash\system_stm32f10x.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA6FD0)
+I (C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE\RTE_Components.h)(0x57481AA9)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm3.h)(0x5735F80E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h)(0x57359116)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E90AC)

@@ -1,0 +1,10 @@
+.\flash\adc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Boards\Keil\MCBSTM32E\Common\ADC.c
+.\flash\adc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include\STM32F10x.h
+.\flash\adc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm3.h
+.\flash\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\adc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h
+.\flash\adc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h
+.\flash\adc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h
+.\flash\adc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include\system_stm32f10x.h
+.\flash\adc.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Boards\Keil\MCBSTM32E\Common\ADC.h
+.\flash\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h

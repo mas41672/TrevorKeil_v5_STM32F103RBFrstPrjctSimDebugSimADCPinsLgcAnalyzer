@@ -1,0 +1,98 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.20.0.0
+Copyright (C) 2016 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Trevor Martin, Hitex, LIC=LJWIL-JJRY4-A0KSW-NADQ0-5HIEK-FJ8B2
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.20
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 2 (build 183)
+Assembler:       Armasm.exe V5.06 update 2 (build 183)
+Linker/Locator:  ArmLink.exe V5.06 update 2 (build 183)
+Library Manager: ArmAr.exe V5.06 update 2 (build 183)
+Hex Converter:   FromElf.exe V5.06 update 2 (build 183)
+CPU DLL:         SARMCM3.DLL V5.20
+Dialog DLL:      DARMSTM.DLL V1.66.0.0
+Target DLL:      UL2CM3.DLL V1.157.18.0
+Dialog DLL:      TCM.DLL V1.14.9.0
+ 
+<h2>Project:</h2>
+C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\Blinky.uvprojx
+Project File Date:  05/27/2016
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 2 (build 183)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'STM32F103 Flash'
+compiling Blinky.c...
+Blinky.c(52): warning:  #177-D: variable "text" was declared but never referenced
+    char text[5] = "";
+Blinky.c: 1 warning, 0 errors
+linking...
+Program Size: Code=2132 RO-data=400 RW-data=44 ZI-data=1028  
+".\Flash\Blinky.axf" - 0 Error(s), 1 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.0.0-Beta4.pack
+                ARM::CMSIS:CORE:5.0.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.0.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.MDK-Middleware.7.1.0.pack
+                ::Board Support:LED:1.00 (API)
+                Keil MDK-ARM Professional Middleware for ARM Cortex-M based devices
+   * Component: LED Version: 1.00
+   * Component: A/D Converter Version: 1.00
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.2.1.0.pack
+                Keil::Device:Startup:1.0.0
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+   * Component: Startup Version: 1.0.0
+   * Component: GPIO Version: 1.2
+   * Component: A/D Converter Version: 2.0.0
+   * Component: LED Version: 2.0.0
+
+<h2>Collection of Component include folders:</h2>
+  C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE
+  C:\Work\Books\IGCMF ver2\2nd edition\Examples\pack\files\Cortex-M Designers Guide\2.1 First project\RTE\Device\STM32F103ZE
+  C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include
+  C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.1.0\Board
+  C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include
+  C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.0.0
+
+   * Component: ::Board Support:LED:1.00 (API)
+      Include file:  Board\Board_LED.h
+
+   * Component: ::Board Support:A/D Converter:1.00 (API)
+      Include file:  Board\Board_ADC.h
+
+   * Component: Keil::Device:Startup:1.0.0
+      Source file:   Device\Source\ARM\STM32F1xx_OPT.s
+      Source file:   Device\Source\ARM\startup_stm32f10x_hd.s
+      Source file:   Device\Source\system_stm32f10x.c
+      Include file:  RTE_Driver\Config\RTE_Device.h
+
+   * Component: Keil::Device:GPIO:1.2
+      Include file:  RTE_Driver\GPIO_STM32F10x.h
+      Source file:   RTE_Driver\GPIO_STM32F10x.c
+
+   * Component: Keil.MCBSTM32E::Board Support:A/D Converter:2.0.0
+      Source file:   Boards\Keil\MCBSTM32E\Common\ADC_MCBSTM32E.c
+
+   * Component: Keil.MCBSTM32E::Board Support:LED:2.0.0
+      Source file:   Boards\Keil\MCBSTM32E\Common\LED_MCBSTM32E.c
+Build Time Elapsed:  00:00:03
+</pre>
+</body>
+</html>
